@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/cs1300-portfolio/static/css/main.a0f5bad2.css",
-    "main.js": "/cs1300-portfolio/static/js/main.83040035.js",
+    "main.css": "/cs1300-portfolio/static/css/main.19800a0f.css",
+    "main.js": "/cs1300-portfolio/static/js/main.b2f87686.js",
     "static/js/787.32fa7371.chunk.js": "/cs1300-portfolio/static/js/787.32fa7371.chunk.js",
+    "static/media/scaruffi.png": "/cs1300-portfolio/static/media/scaruffi.058bacfa894993e5d243.png",
     "static/media/stage2.jpg": "/cs1300-portfolio/static/media/stage2.4ae062334f7d8f4531b8.jpg",
     "static/media/stressed_stephen.png": "/cs1300-portfolio/static/media/stressed_stephen.4d5cb3102c6fb7955d47.png",
     "static/media/happy_harold.png": "/cs1300-portfolio/static/media/happy_harold.54f61feaa36c7787bae2.png",
@@ -36,12 +37,12 @@
     "static/media/FuturaLT.woff": "/cs1300-portfolio/static/media/FuturaLT.c7143ff2162a1e1bcc82.woff",
     "static/media/logo.svg": "/cs1300-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cs1300-portfolio/index.html",
-    "main.a0f5bad2.css.map": "/cs1300-portfolio/static/css/main.a0f5bad2.css.map",
-    "main.83040035.js.map": "/cs1300-portfolio/static/js/main.83040035.js.map",
+    "main.19800a0f.css.map": "/cs1300-portfolio/static/css/main.19800a0f.css.map",
+    "main.b2f87686.js.map": "/cs1300-portfolio/static/js/main.b2f87686.js.map",
     "787.32fa7371.chunk.js.map": "/cs1300-portfolio/static/js/787.32fa7371.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0f5bad2.css",
-    "static/js/main.83040035.js"
+    "static/css/main.19800a0f.css",
+    "static/js/main.b2f87686.js"
   ]
 }
